@@ -13,6 +13,7 @@
 body {
     background: url(coding.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     line-height: 2;
     width: 50%;
